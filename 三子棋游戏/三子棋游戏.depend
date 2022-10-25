@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1664881694 source:e:\codeblock\游戏\三子棋游戏\game.c
+	"game.h"
+
+1664879143 e:\codeblock\游戏\三子棋游戏\game.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1664879143 source:e:\codeblock\游戏\三子棋游戏\game.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1664879191 source:e:\codeblock\游戏\三子棋游戏\main.c
+	"game.h"
+
