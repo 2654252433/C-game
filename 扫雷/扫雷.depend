@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1664962480 source:e:\codeblock\ÓÎÏ·\É¨À×\game.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1664963406 source:e:\codeblock\ÓÎÏ·\É¨À×\game.c
+	"game.h"
+
+1664962480 e:\codeblock\ÓÎÏ·\É¨À×\game.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1664963658 source:e:\codeblock\ÓÎÏ·\É¨À×\main.c
+	"game.h"
+
